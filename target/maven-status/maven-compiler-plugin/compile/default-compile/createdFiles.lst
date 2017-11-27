@@ -1,0 +1,8 @@
+com\foodee\config\ApplicationConfigurerAdapter.class
+com\foodee\dto\FoodItems.class
+com\foodee\service\UploadUtility.class
+com\foodee\controller\UserController.class
+com\foodee\repository\FoodRepository.class
+com\foodee\controller\ManageFoodee.class
+com\foodee\dto\ResponseDto.class
+com\foodee\FoodeeInitailzer.class
