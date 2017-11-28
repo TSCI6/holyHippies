@@ -42,7 +42,7 @@ function handleFoodTable(data)
       	      	mRender:function(data,type,row){
       	      		
       	      		
-      	      		return '<img src="FoodItemsImages/'+data+'" class="foodImage" height="200" width="200"/>';
+      	      		return '<img src="FoodItemsImages/'+data+'" class="foodImage" height="50" width="50"/>';
       	      	}
                 
             }, {
