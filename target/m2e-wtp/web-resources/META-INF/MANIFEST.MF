@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Foodee Maven Webapp
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: ts001127
+Built-By: TS001127
 Implementation-Vendor-Id: com.holyHippies
 Build-Jdk: 1.8.0_31
 Implementation-URL: http://maven.apache.org
